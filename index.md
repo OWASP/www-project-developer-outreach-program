@@ -5,18 +5,16 @@ title: OWASP Developer Outreach Program
 tags: example-tag
 level: 2
 type: 
-pitch: A very brief, one-line description of your project
+pitch: Developer Outreach Program by OWASP
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+A program for developer community and developer engagement program. We work with developers to engage them with the security programs that OWASP currently has. 
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+* Project members will everage the current projects catering to the developers.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+* Help developers based on different languages
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+* Engage with the Outreach community to spread the word to the developers
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
-type: code, tool, documentation, or other
+Stay Tune for Developer Security Summit on 24th July, 2021.
