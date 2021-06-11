@@ -1,5 +1,5 @@
 ---
-title: Developer Security Summit 2021
+title: DeveloperSecuritySummit2021
 layout:  null
 tab: true
 order: 1
