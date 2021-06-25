@@ -18,7 +18,5 @@ Time Zone:
 11:30 AM GMT (24th July, 2021) - 7:30 PM GMT (25th July, 2021)
 
 
-Submit the CFP here:-
-
-[CFP LInk](https://owasp.submittable.com/submit/196834/owasp-appsec-days-developer-security-summit-2021)
+Submit the CFP here:-  [CFP LInk](https://owasp.submittable.com/submit/196834/owasp-appsec-days-developer-security-summit-2021)
 
