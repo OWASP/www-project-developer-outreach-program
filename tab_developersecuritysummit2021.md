@@ -22,7 +22,7 @@ Sponsorships are also available :- Link
 To be Shared
 
 
-**Time Zone: **
+**Time Zone:**
 
 7:30 AM ET (24th July, 2021) - 3:30 PM ET(24th July, 2021)
 
@@ -30,5 +30,5 @@ To be Shared
 
 11:30 AM GMT (24th July, 2021) - 7:30 PM GMT (25th July, 2021)
 
-**Committee Reviewers:- **
+**Committee Reviewers:-**
 
