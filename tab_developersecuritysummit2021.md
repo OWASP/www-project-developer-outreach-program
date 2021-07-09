@@ -20,3 +20,4 @@ Time Zone:
 
 Submit the CFP here:-  [CFP LInk](https://owasp.submittable.com/submit/196834/owasp-appsec-days-developer-security-summit-2021)
 
+Don't miss to register for the event : https://www.eventbrite.com/e/appsec-days-owasp-developer-security-summit-2021-tickets-153345649967
