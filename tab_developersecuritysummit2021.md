@@ -17,6 +17,10 @@ Don't miss to register for the event : [Register Here](https://www.eventbrite.co
 
 Sponsorships are also available :- Link
 
+**Agenda**
+
+To be Shared
+
 
 **Time Zone: **
 
@@ -25,3 +29,6 @@ Sponsorships are also available :- Link
 5:00 PM IST (24th July, 2021) - 1:00 AM IST (25th July, 2021)
 
 11:30 AM GMT (24th July, 2021) - 7:30 PM GMT (25th July, 2021)
+
+**Committee Reviewers:- **
+
