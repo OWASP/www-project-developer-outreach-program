@@ -59,8 +59,11 @@ Sponsorships are also available :- Link
 
 **Committee Reviewers:-**
 
-[Anant Shrivastava](https://twitter.com/anantshri)
-[Grant Ongers](https://twitter.com/rewtd)
-[Joubin Jabbari](https://twitter.com/joubinj)
-[Vandana Verma Sehgal](https://twitter.com/InfosecVandana)
+* [Anant Shrivastava](https://twitter.com/anantshri)
+
+* [Grant Ongers](https://twitter.com/rewtd)
+
+* [Joubin Jabbari](https://twitter.com/joubinj)
+
+* [Vandana Verma Sehgal](https://twitter.com/InfosecVandana)
 
