@@ -25,35 +25,285 @@ Sponsorships are also available :- Link
 
 **Agenda**
 
-| Sr. No | Agenda            | Time Slot | IST   | BST   | GMT   | EST   | PST   | Shift Lead           |
-|--------|-------------------|-----------|-------|-------|-------|-------|-------|----------------------|
-| 1      | opening Note      | 0:10      | 17:00 | 12:30 | 11:30 | 7:30  | 4:30  | Vandana Verma Sehgal |
-| 2      | Intro by OWASP ED | 0:15      | 17:10 | 12:40 | 11:40 | 7:40  | 4:40  | Vandana Verma Sehgal |
-| 3      | Session 1         | 0:30      | 17:25 | 12:55 | 11:55 | 7:55  | 4:55  | Vandana Verma Sehgal |
-| 4      | Short Break       | 0:05      | 17:55 | 13:25 | 12:25 | 8:25  | 5:25  | Vandana Verma Sehgal |
-| 5      | Session 2         | 0:30      | 18:00 | 13:30 | 12:30 | 8:30  | 5:30  | Vandana Verma Sehgal |
-| 6      | Short Break       | 0:05      | 18:30 | 14:00 | 13:00 | 9:00  | 6:00  | Vandana Verma Sehgal |
-| 7      | Session 3         | 0:30      | 18:35 | 14:05 | 13:05 | 9:05  | 6:05  | Vandana Verma Sehgal |
-| 8      | Short Break       | 0:05      | 19:05 | 14:35 | 13:35 | 9:35  | 6:35  | Vandana Verma Sehgal |
-| 9      | Session 4         | 0:30      | 19:10 | 14:40 | 13:40 | 9:40  | 6:40  | Vandana Verma Sehgal |
-| 10     | Short Break       | 0:05      | 19:40 | 15:10 | 14:10 | 10:10 | 7:10  | Vandana Verma Sehgal |
-| 11     | Session 5         | 0:30      | 19:45 | 15:15 | 14:15 | 10:15 | 7:15  | Vandana Verma Sehgal |
-| 12     | Long Break        | 0:30      | 20:15 | 15:45 | 14:45 | 10:45 | 7:45  | Vandana Verma Sehgal |
-| 13     | Session 6         | 0:30      | 20:45 | 16:15 | 15:15 | 11:15 | 8:15  | Vandana Verma Sehgal |
-| 14     | Short Break       | 0:05      | 21:15 | 16:45 | 15:45 | 11:45 | 8:45  | Vandana Verma Sehgal |
-| 15     | Session 7         | 0:30      | 21:20 | 16:50 | 15:50 | 11:50 | 8:50  | Grant Ongers         |
-| 16     | Short Break       | 0:05      | 21:50 | 17:20 | 16:20 | 12:20 | 9:20  | Grant Ongers         |
-| 17     | Session 8         | 0:30      | 21:55 | 17:25 | 16:25 | 12:25 | 9:25  | Grant Ongers         |
-| 18     | Short Break       | 0:05      | 22:25 | 17:55 | 16:55 | 12:55 | 9:55  | Grant Ongers         |
-| 19     | Session 9         | 0:30      | 22:30 | 18:00 | 17:00 | 13:00 | 10:00 | Grant Ongers         |
-| 20     | Short Break       | 0:05      | 23:00 | 18:30 | 17:30 | 13:30 | 10:30 | Grant Ongers         |
-| 21     | Session 10        | 0:30      | 23:05 | 18:35 | 17:35 | 13:35 | 10:35 | Grant Ongers         |
-| 22     | Short Break       | 0:05      | 23:35 | 19:05 | 18:05 | 14:05 | 11:05 | Grant Ongers         |
-| 23     | Session 11        | 0:30      | 23:40 | 19:10 | 18:10 | 14:10 | 11:10 | Grant Ongers         |
-| 24     | Short Break       | 0:05      | 0:10  | 19:40 | 18:40 | 14:40 | 11:40 | Grant Ongers         |
-| 25     | Session 12        | 0:30      | 0:15  | 19:45 | 18:45 | 14:45 | 11:45 | Grant Ongers         |
-| 26     | Closing Remarks   | 0:15      | 0:45  | 20:15 | 19:15 | 15:15 | 12:15 | Grant Ongers         |
-|        |                   |           | 1:00  | 20:30 | 19:30 | 15:30 | 12:30 | Grant Ongers         |
+<table>
+<colgroup>
+<col style="width: 11%" />
+<col style="width: 27%" />
+<col style="width: 13%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Sr. No</th>
+<th>Agenda</th>
+<th>Speaker Name</th>
+<th>Time Slot</th>
+<th>IST</th>
+<th>GMT</th>
+<th>EST</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>opening Note</td>
+<td>Vandana</td>
+<td>0:10</td>
+<td>17:00</td>
+<td>11:30</td>
+<td>7:30</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Intro by OWASP ED</td>
+<td>Andrew</td>
+<td>0:15</td>
+<td>17:10</td>
+<td>11:40</td>
+<td>7:40</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Shift-Left-Security with the Security Test Pyramid</td>
+<td><table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Andreas Falk</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table></td>
+<td>0:30</td>
+<td>17:25</td>
+<td>11:55</td>
+<td>7:55</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Short Break</td>
+<td></td>
+<td>0:05</td>
+<td>17:55</td>
+<td>12:25</td>
+<td>8:25</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Why all speed and no security makes Infrastructure-as-Code a risky business</td>
+<td>Aakash Shah</td>
+<td>0:30</td>
+<td>18:00</td>
+<td>12:30</td>
+<td>8:30</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Short Break</td>
+<td></td>
+<td>0:05</td>
+<td>18:30</td>
+<td>13:00</td>
+<td>9:00</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Helping developers adopt a security first approach to development</td>
+<td>Steven Cochin</td>
+<td>0:30</td>
+<td>18:35</td>
+<td>13:05</td>
+<td>9:05</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>Short Break</td>
+<td></td>
+<td>0:05</td>
+<td>19:05</td>
+<td>13:35</td>
+<td>9:35</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>OWASP Application Gateway: What is it and how can you use it to secure your webapp?</td>
+<td>Gian-Luca Frei</td>
+<td>0:30</td>
+<td>19:10</td>
+<td>13:40</td>
+<td>9:40</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>Short Break</td>
+<td></td>
+<td>0:05</td>
+<td>19:40</td>
+<td>14:10</td>
+<td>10:10</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>Hacking code - Source code as a vulnerability: How hackers exploit source code to attack organizations</td>
+<td>Mackenzie Jackson</td>
+<td>0:30</td>
+<td>19:45</td>
+<td>14:15</td>
+<td>10:15</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>Long Break</td>
+<td></td>
+<td>0:30</td>
+<td>20:15</td>
+<td>14:45</td>
+<td>10:45</td>
+</tr>
+<tr class="odd">
+<td>13</td>
+<td>Built-in security: Secure web apps using modern browser features</td>
+<td>Clemens Hübner</td>
+<td>0:30</td>
+<td>20:45</td>
+<td>15:15</td>
+<td>11:15</td>
+</tr>
+<tr class="even">
+<td>14</td>
+<td>Short Break</td>
+<td></td>
+<td>0:05</td>
+<td>21:15</td>
+<td>15:45</td>
+<td>11:45</td>
+</tr>
+<tr class="odd">
+<td>15</td>
+<td>Join me to Threat Model an usecase - Improve your DevSecOps</td>
+<td>Uma Rajagopal</td>
+<td>0:30</td>
+<td>21:20</td>
+<td>15:50</td>
+<td>11:50</td>
+</tr>
+<tr class="even">
+<td>16</td>
+<td>Short Break</td>
+<td></td>
+<td>0:05</td>
+<td>21:50</td>
+<td>16:20</td>
+<td>12:20</td>
+</tr>
+<tr class="odd">
+<td>17</td>
+<td>Access-Control-as-Code: Or how Decentralized "as-code" frameworks are redefining modern web apps</td>
+<td>Abhay Bhargav</td>
+<td>0:30</td>
+<td>21:55</td>
+<td>16:25</td>
+<td>12:25</td>
+</tr>
+<tr class="even">
+<td>18</td>
+<td>Short Break</td>
+<td></td>
+<td>0:05</td>
+<td>22:25</td>
+<td>16:55</td>
+<td>12:55</td>
+</tr>
+<tr class="odd">
+<td>19</td>
+<td>Software Composition Analysis 101: Knowing what’s inside your apps</td>
+<td>Magno Logan</td>
+<td>0:30</td>
+<td>22:30</td>
+<td>17:00</td>
+<td>13:00</td>
+</tr>
+<tr class="even">
+<td>20</td>
+<td>Short Break</td>
+<td></td>
+<td>0:05</td>
+<td>23:00</td>
+<td>17:30</td>
+<td>13:30</td>
+</tr>
+<tr class="odd">
+<td>21</td>
+<td>How to choose AuthN and AuthZn strategy for a simple to complex Service-to-Service Calls</td>
+<td>Vasantharaju M.S</td>
+<td>0:30</td>
+<td>23:05</td>
+<td>17:35</td>
+<td>13:35</td>
+</tr>
+<tr class="even">
+<td>22</td>
+<td>Short Break</td>
+<td></td>
+<td>0:05</td>
+<td>23:35</td>
+<td>18:05</td>
+<td>14:05</td>
+</tr>
+<tr class="odd">
+<td>23</td>
+<td>Choose your open source package like you choose a hotel</td>
+<td>Matt Jarvis</td>
+<td>0:30</td>
+<td>23:40</td>
+<td>18:10</td>
+<td>14:10</td>
+</tr>
+<tr class="even">
+<td>24</td>
+<td>Short Break</td>
+<td></td>
+<td>0:05</td>
+<td>0:10</td>
+<td>18:40</td>
+<td>14:40</td>
+</tr>
+<tr class="odd">
+<td>25</td>
+<td>Why the Options Pattern is Great for Security</td>
+<td>Dima Kotik</td>
+<td>0:30</td>
+<td>0:15</td>
+<td>18:45</td>
+<td>14:45</td>
+</tr>
+<tr class="even">
+<td>26</td>
+<td>Closing Remarks</td>
+<td></td>
+<td>0:15</td>
+<td>0:45</td>
+<td>19:15</td>
+<td>15:15</td>
+</tr>
+<tr class="odd">
+<td> </td>
+<td> </td>
+<td></td>
+<td> </td>
+<td>1:00</td>
+<td>19:30</td>
+<td>15:30</td>
+</tr>
+</tbody>
+</table>
+
 
 <br>
 
