@@ -259,7 +259,7 @@ Sponsorships are also available :- Link
 <tr class="odd">
 <td>23</td>
 <td>Choose your open source package like you choose a hotel</td>
-<td>Matt Jarvis</td>
+<td>Oren Hacohen</td>
 <td>0:30</td>
 <td>23:40</td>
 <td>18:10</td>
