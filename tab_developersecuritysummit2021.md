@@ -258,8 +258,8 @@ Sponsorships are also available :- Link
 </tr>
 <tr class="odd">
 <td>23</td>
-<td>Choose your open source package like you choose a hotel</td>
-<td>Oren Hacohen</td>
+<td>Are We Forever Doomed By Software Supply Chain Risks?</td>
+<td>Liran Tal</td>
 <td>0:30</td>
 <td>23:40</td>
 <td>18:10</td>
