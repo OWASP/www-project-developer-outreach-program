@@ -311,6 +311,7 @@ Huge Shoutout to our Platinum Sponsor:-
 
 **Snyk**
 
+<br>
 
 **Committee Reviewers:-**
 
