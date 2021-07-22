@@ -307,6 +307,11 @@ Sponsorships are also available :- Link
 
 <br>
 
+Huge Shoutout to our Platinum Sponsor:-
+
+**Snyk**
+
+
 **Committee Reviewers:-**
 
 * [Anant Shrivastava](https://twitter.com/anantshri)
