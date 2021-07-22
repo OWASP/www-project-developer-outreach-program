@@ -186,8 +186,8 @@ Sponsorships are also available :- Link
 </tr>
 <tr class="odd">
 <td>15</td>
-<td>Join me to Threat Model an usecase - Improve your DevSecOps</td>
-<td>Uma Rajagopal</td>
+<td>Does Code Complexity Really Matter In the Real-World of Secure Coding?</td>
+<td>John Whiteman</td>
 <td>0:30</td>
 <td>21:20</td>
 <td>15:50</td>
