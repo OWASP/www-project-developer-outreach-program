@@ -11,15 +11,13 @@ tags: example-tag
 Date : 24th July, 2021
 
 
-Submit the CFP here:-  [CFP LInk](https://owasp.submittable.com/submit/196834/owasp-appsec-days-developer-security-summit-2021)
+CFP is Now Closed: [CFP Link](https://owasp.submittable.com/submit/196834/owasp-appsec-days-developer-security-summit-2021)
 
-<br>
 
-Don't miss to register for the event : [Register Here](https://www.eventbrite.com/e/appsec-days-owasp-developer-security-summit-2021-tickets-153345649967)
+Don't Miss to Register for the Event: [Register Here](https://www.eventbrite.com/e/appsec-days-owasp-developer-security-summit-2021-tickets-153345649967)
 
-<br>
 
-Sponsorships are also available :- Link
+Sponsorships Are Also Available
 
 <br>
 
@@ -49,7 +47,7 @@ Sponsorships are also available :- Link
 <tbody>
 <tr class="odd">
 <td>1</td>
-<td>opening Note</td>
+<td>Opening Note</td>
 <td>Vandana</td>
 <td>0:10</td>
 <td>17:00</td>
@@ -68,18 +66,7 @@ Sponsorships are also available :- Link
 <tr class="odd">
 <td>3</td>
 <td>Shift-Left-Security with the Security Test Pyramid</td>
-<td><table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Andreas Falk</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table></td>
+<td>Andreas Falk</td>
 <td>0:30</td>
 <td>17:25</td>
 <td>11:55</td>
@@ -307,7 +294,7 @@ Sponsorships are also available :- Link
 
 <br>
 
-Huge Shoutout to our Platinum Sponsor:-
+Huge Shoutout to our Platinum Sponsor:
 
 [**Snyk**](https://snyk.io/)
 
