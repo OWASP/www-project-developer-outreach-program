@@ -309,7 +309,9 @@ Sponsorships are also available :- Link
 
 Huge Shoutout to our Platinum Sponsor:-
 
-**Snyk**
+[**Snyk**](https://snyk.io/)
+
+![Snyk logo](/assets/images/snyk-logo-black.png)
 
 <br>
 
