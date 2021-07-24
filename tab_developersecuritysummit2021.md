@@ -49,7 +49,7 @@ Sponsorships Are Also Available
 | 23     | Selling security to developers. An XSS based war story approach                                        | Subramanian       | 0:30      | 23:50 | 18:20 | 14:10 |
 | 24     | Short Break                                                                                            |                   | 0:05      | 0:20  | 18:50 |       |
 | 25     | Why the Options Pattern is Great for Security                                                          | Dima Kotik        | 0:30      | 0:25  | 18:55 | 14:40 |
-| 25     | Closing Remarks                                                                                        |        | 0:15      | 0:55  | 19:25 | 14:45 |
+| 25     | Closing Remarks                                                                                        |                   | 0:15      | 0:55  | 19:25 | 14:45 |
 | 26     |                                                                                                        |                   |           | 1:10  | 19:40 | 15:15 |
 
 
