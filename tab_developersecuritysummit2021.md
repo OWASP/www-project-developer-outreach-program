@@ -51,7 +51,6 @@ Sponsorships Are Also Available
 | 24     | Short Break                                                                                            |                   | 0:05      | 18:50 |
 | 25     | Why the Options Pattern is Great for Security                                                          | Dima Kotik        | 0:30      | 18:55 |
 | 25     | Closing Remarks                                                                                        |                   | 0:15      | 19:25 |
-| 26     |                                                                                                        |                   |           | 19:40 |
 
 
 
