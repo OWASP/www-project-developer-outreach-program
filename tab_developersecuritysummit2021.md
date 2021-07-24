@@ -62,7 +62,7 @@ Huge Shoutout to our Platinum Sponsor:
 
 [**Snyk**](https://snyk.io/)
 
-![Snyk logo](assets/images/snyk-logo-black.png)
+![Snyk logo](https://owasp.org/www-project-developer-outreach-program/assets/images/snyk-logo-black.png)
 
 <br>
 
