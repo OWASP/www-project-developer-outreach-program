@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Developer Outreach Program
+title: AppSec Days OWASP Developer Outreach Program
 tags: example-tag
 level: 2
 type: 
@@ -17,4 +17,4 @@ A program for developer community and developer engagement program. We work with
 
 * Engage with the Outreach community to spread the word to the developers
 
-Stay Tune for Developer Security Summit on 24th July, 2021.
+Stay Tune for AppSec Days OWASP Developer Security Summit on 24th July, 2021.
