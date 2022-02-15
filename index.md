@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: AppSec Days OWASP Developer Outreach Program
+title: OWASP AppSec Days Developer Outreach Program
 tags: example-tag
 level: 2
 type: 
