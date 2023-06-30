@@ -1,5 +1,5 @@
 ---
-title: Events 2023
+title: Events2023
 layout:  null
 tab: true
 order: 1
