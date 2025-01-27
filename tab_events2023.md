@@ -10,5 +10,4 @@ tags: example-tag
 
 Date : 24th July, 2023
 
-**Agenda**
-TBD
+
